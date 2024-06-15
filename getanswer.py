@@ -1,5 +1,5 @@
 #this is an auto script for getting answers from diferent LLMs
-#Author by .heyizhang.TJU.TJUDB
+#Author by anony
 #start_time: 2023.7.15
 #end_time: 2024.1.9
 #overwrited for subjective evaluation
